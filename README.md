@@ -71,7 +71,7 @@ LGBTQの当事者達が自分らしく輝ける場所を提供したいと思っ
 
 ### **ER図**
 
-[ER図](https://drive.google.com/file/d/1vqCiwehq1TvAkyYham9Hv5sHthtSTpmk/view?usp=sharing)
+[ER図](https://drive.google.com/file/d/1vqCiwehq1TvAkyYham9Hv5sHthtSTpmk/view)
 
 ### **スケジュール**
 
