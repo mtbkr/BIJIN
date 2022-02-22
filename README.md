@@ -69,6 +69,10 @@ LGBTQの当事者達が自分らしく輝ける場所を提供したいと思っ
 
 [figma](https://www.figma.com/file/7jLNotLCLpn61bSqUjmpYH/Top?node-id=0%3A1)
 
+### **ER図**
+
+[ER図](https://drive.google.com/file/d/1vqCiwehq1TvAkyYham9Hv5sHthtSTpmk/view)
+
 ### **スケジュール**
 
 画面遷移図：2/13
