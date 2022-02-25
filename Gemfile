@@ -34,6 +34,8 @@ gem 'rename'
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 
+# ログイン
+gem 'sorcery'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
